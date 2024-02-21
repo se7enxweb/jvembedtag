@@ -1,0 +1,1 @@
+<iframe style="border: 0; width: 100%; height: 120px;" src="{$song}" seamless><a href="{$songLink}">{$songTitle}</a></iframe>
