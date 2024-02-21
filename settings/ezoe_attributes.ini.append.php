@@ -1,8 +1,31 @@
 <?php /* #?ini charset="utf-8"?
 
+[CustomAttribute_bandcamp_song]
+Name=Song
+Title=Song link from Bandcamp website (i.e. https://bandcamp.com/EmbeddedPlayer/track=3503051224/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/)
+Required=true
+
+[CustomAttribute_bandcamp_song_title]
+Name=Song Title
+Title=Song Title from Bandcamp website
+Required=true
+
+[CustomAttribute_bandcamp_song_link]
+Name=Song Link
+Title=Song link to the Bandcamp website
+Required=true
+
+[CustomAttribute_spotify_playerWidth]
+Name=Width
+Title=Width of the player
+
+[CustomAttribute_spotify_playerHeight]
+Name=Height
+Title=Height of the player
+
 [CustomAttribute_spotify_song]
 Name=Song
-Title=Song link from Spotify website (i.e. x)
+Title=Song link from Spotify website (i.e. https://open.spotify.com/embed/track/3QOe07WDvNA2YhSVewSs6a?utm_source=generator)
 Required=true
 
 [CustomAttribute_spotify_playerWidth]
