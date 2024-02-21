@@ -1,5 +1,18 @@
 <?php /* #?ini charset="utf-8"?
 
+[CustomAttribute_spotify_song]
+Name=Song
+Title=Song link from Spotify website (i.e. x)
+Required=true
+
+[CustomAttribute_spotify_playerWidth]
+Name=Width
+Title=Width of the player
+
+[CustomAttribute_spotify_playerHeight]
+Name=Height
+Title=Height of the player
+
 [CustomAttribute_youtube_video]
 Name=Video
 Title=Video link from YouTube website (i.e. http://www.youtube.com/watch?v=MfOnq-zXXBw)
