@@ -1,6 +1,6 @@
 {
-    "name": "lolautruche/embedtag-ls",
-    "description": "Collection of custom tags for eZ Publish, to embed external content like from YouTube, DailyMotion or Vimeo",
+    "name": "se7enxweb/jvembedtag",
+    "description": "Collection of custom tags for eZ Publish, to embed external content like from Spotify, YouTube, DailyMotion or Vimeo",
     "type": "ezpublish-legacy-extension",
     "license": "MIT",
     "authors": [
